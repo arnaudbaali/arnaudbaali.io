@@ -1,0 +1,120 @@
+[
+  {
+    "company": "Clear Books",
+    "url": "https://www.clearbooks.co.uk",
+    "startDate": "07/2016",
+    "endDate": null,
+    "position": "CTO",
+    "resume2": "As the CTO and also member of the Board of the company, i was managing a team of nearly 15 peoples (Devs, Product owner, Design and accountant). I was the technical referent",
+    "resume": [
+      "Board Member",
+      "Technical referent",
+      "Architecture of the new version of the saas service (Monolitic to Micro services)",
+      "Manage product team of 20 persons (Devs, Product Owner, Designers, Accountant)",
+      "Agile coach for the company",
+      "Hosting: AWS (EC2, ECS, EFS, RDS, Lambda, API Gateway)",
+      "Stack: PHP7, MySQL, RabbitMQ, Redis, AngularJS 2/4, Docker, Micro services, Node/Express",
+      "Manage offshore team"
+    ],
+    "tags": ["aws","php7","docker","jenkins","typescript","NodeJS/Express","Angular 2/4"]
+  },
+  {
+    "company": "Padawan Group",
+    "url": "https://www.padawangroup.com",
+    "startDate": "04/2015",
+    "endDate": "07/2016",
+    "position": "CTO",
+    "resume": "",
+    "tags": [
+      "aws",
+      "php7",
+      "docker",
+      "jenkins",
+      "typescript",
+      "NodeJS/Express",
+      "Angular 2/4"
+    ]
+  },
+  {
+    "company": "MyWineWaiter",
+    "url": "https://www.mywinewaiter.com",
+    "startDate": "06/2015",
+    "endDate": null,
+    "position": "Founder",
+    "resume": "",
+    "tags": [
+      "aws",
+      "NodeJS/Express",
+      "Angular",
+      "MongoDB",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "company": "Iron Web",
+    "url": "https://www.iron-web.co.uk",
+    "startDate": "04/2014",
+    "endDate": "04/2015",
+    "position": "CTO",
+    "resume": "",
+    "tags": [
+      "aws",
+      "php7",
+      "docker",
+      "jenkins",
+      "typescript",
+      "Angular 2/4"
+    ]
+  },
+  {
+    "company": "3W Academy",
+    "url": "https://www.3wa.fr",
+    "startDate": "09/2012",
+    "endDate": "03/2014",
+    "position": "Teacher for Web Developer",
+    "resume": "",
+    "tags": [
+      "teacher",
+      "php",
+      "css",
+      "html",
+      "symfony",
+      "OOP",
+      "Best practice"
+    ]
+  },
+  {
+    "company": "Natexo",
+    "url": "https://www.natexo.fr",
+    "startDate": "09/2012",
+    "endDate": "06/2013",
+    "position": "CTO (contractor)",
+    "resume": "",
+    "tags": [
+      "aws",
+      "php",
+      "scrum",
+      "symfony",
+      "big data"
+    ]
+  },
+  {
+    "company": "Eclaps",
+    "url": "https://www.eclaps.com",
+    "startDate": "03/2007",
+    "endDate": "08/2012",
+    "position": "CTO - CoFounder",
+    "resume": "",
+    "tags": [
+      "php",
+      "mysql",
+      "management",
+      "iOS",
+      "Android",
+      "BlackBerry",
+      "Windows Phone",
+      "Hybrid App",
+      "REST/API"
+    ]
+  }
+]
