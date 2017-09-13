@@ -5,18 +5,8 @@
     "startDate": "07/2016",
     "endDate": null,
     "position": "CTO",
-    "resume2": "As the CTO and also member of the Board of the company, i was managing a team of nearly 15 peoples (Devs, Product owner, Design and accountant). I was the technical referent",
-    "resume": [
-      "Board Member",
-      "Technical referent",
-      "Architecture of the new version of the saas service (Monolitic to Micro services)",
-      "Manage product team of 20 persons (Devs, Product Owner, Designers, Accountant)",
-      "Agile coach for the company",
-      "Hosting: AWS (EC2, ECS, EFS, RDS, Lambda, API Gateway)",
-      "Stack: PHP7, MySQL, RabbitMQ, Redis, AngularJS 2/4, Docker, Micro services, Node/Express",
-      "Manage offshore team"
-    ],
-    "tags": ["aws","php7","docker","jenkins","typescript","NodeJS/Express","Angular 2/4"]
+    "resume": "As the CTO and also member of the Board of the company, i was managing a team of nearly 15 peoples (Devs [in-off]shore, Product owner, Design and accountant). I was the technical referent responsible of the architecture of the Monolith App and the new Micro services. Scrum fan i was also coaching the team on those subjects.",
+    "tags": ["aws","php7","docker","jenkins","typescript","NodeJS/Express","Angular 2/4","Micro services","Lambda","RabbitMQ"]
   },
   {
     "company": "Padawan Group",
@@ -27,12 +17,15 @@
     "resume": "",
     "tags": [
       "aws",
-      "php7",
       "docker",
+      "Micro services",
       "jenkins",
-      "typescript",
       "NodeJS/Express",
-      "Angular 2/4"
+      "Symfony 2",
+      "Angular",
+      "Mesosphere",
+      "RabbitMQ",
+      "Redis"
     ]
   },
   {
@@ -44,7 +37,7 @@
     "resume": "",
     "tags": [
       "aws",
-      "NodeJS/Express",
+      "Symfony 2",
       "Angular",
       "MongoDB",
       "Entrepreneur"
@@ -58,12 +51,13 @@
     "position": "CTO",
     "resume": "",
     "tags": [
-      "aws",
-      "php7",
+      "Scrum / Agile",
+      "php",
       "docker",
       "jenkins",
-      "typescript",
-      "Angular 2/4"
+      "Symfony 2",
+      "MySQL",
+      "Micro services"
     ]
   },
   {

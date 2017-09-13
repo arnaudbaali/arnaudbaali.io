@@ -30,7 +30,7 @@ export default class Experience extends Component {
                 </h2>
                 <h3>Position: {exp.position} - From: {exp.startDate} {exp.endDate !== null && 'to:' + exp.endDate }</h3>
                 <p>
-                    {exp.resume[0]}
+                    {exp.resume}
                 </p>
                 <hr />
                 <Row className="rating-desc">
