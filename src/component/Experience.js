@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Col, Grid, Label, Panel, Row, Well } from 'react-bootstrap';
-import experiences from '../data/experience.json';
+import cv from '../data/CV-arnaud-baali.json';
 import './Experience.css';
 import FontAwesome from 'react-fontawesome';
 
@@ -15,13 +15,13 @@ export default class Experience extends Component {
 
   renderItem() {
 
-    return experiences.map(
+    return cv.work.map(
       (exp, i) =>
         <Row key={i}>
           <Well>
             <Row>
               <Col xs={2} md={2}>
-                <img src="http://bootsnipp.com/apple-touch-icon-114x114-precomposed.png" alt="bootsnipp"
+                <img src={exp.logo} alt={exp.company}
                      className="img-rounded img-responsive" />
               </Col>
               <Col xs={10} md={10} className="section-box">

@@ -1,0 +1,401 @@
+{
+  "basics": {
+    "name": "Arnaud Baali",
+    "label": "Chief Technical Officer (CTO)",
+    "summary": "CTO since 10 years, i aim to build from scratch technical teams, leading tech teams to achieve personnal and team goals with new technologies and best practices as a reference.",
+    "email": "arnaud.baali@me.com",
+    "profiles": [
+      {
+        "network": "Linked In",
+        "url": "https://uk.linkedin.com/in/arnaudbaali"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/arnaudbaali"
+      },
+      {
+        "network": "Twitter",
+        "url": "https://twitter.com/arnaudbaali"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Clear Books Plc",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/clearbooks-square.jpg",
+      "position": "Technical Director",
+      "startDate": "07/2016",
+      "highlights": [
+        "Board Member",
+        "Technical referent",
+        "Architecture of the new version of the saas service (Monolitic to Micro services)",
+        "Manage product team of 20 personsn- Lead developersn- Developersn- Product ownersn- Designersn- Expert Accountant",
+        "Agile coach for the company",
+        "Hosting: AWS (EC2, ECS, EFS, RDS, Lambda, API Gateway)",
+        "Stack: PHP7, MySQL, RabbitMQ, Redis, AngularJS 2/4, Docker, Micro services, Node/Express",
+        "Manage offshore team"
+      ],
+      "tags": ["aws","php7","docker","jenkins","typescript","NodeJS/Express","Angular 2/4","Micro services","Lambda","RabbitMQ"]
+    },
+    {
+      "company": "Padawangroup Ltd",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/padawan-group-squarelogo.png",
+      "position": "CTO",
+      "website": "http://www.padawangroup.com",
+      "startDate": "07/2015",
+      "endDate": "07/2016",
+      "highlights": [
+        "Technical manager for inshore and offshore team (20 devs)",
+        "Managing Design team",
+        "Implement SCRUM / Kanban",
+        "SCRUM referent for other teams",
+        "Technical Architecture",
+        "Android manager",
+        "Full AWS Architecture",
+        "Board member",
+        "Symfony2 / AngularJS / NodeJS architecture",
+        "MESOS / ElasticSearch / BigData"
+      ],
+      "tags": [
+        "aws",
+        "docker",
+        "Micro services",
+        "jenkins",
+        "NodeJS/Express",
+        "Symfony 2",
+        "Angular",
+        "Mesosphere",
+        "RabbitMQ",
+        "Redis"
+      ]
+    },
+    {
+      "company": "Mywinewaiter",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/mww.jpg",
+      "position": "CEO - founder",
+      "website": "http://www.mywinewaiter.com",
+      "startDate": "06/2015",
+      "endDate": "03/2017",
+      "highlights": [
+        "Build a team of co-founders",
+        "Lead the company and growth strategy",
+        "Build Websites with AngularJS /Symfony2 RestFull API",
+        ""
+      ],
+      "tags": [
+        "aws",
+        "Symfony 2",
+        "Angular",
+        "MongoDB",
+        "Entrepreneur"
+      ]
+    },
+    {
+      "company": "Iron Web Ltd",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/ironweb-squarelogo.png",
+      "position": "CTO",
+      "website": "http://www.iron-web.co.uk",
+      "startDate": "03/2014",
+      "endDate": "05/2015",
+      "highlights": [
+        "Create a tech team of 25 Symfony2/AngularJS Experts",
+        "Create a design team of 5 designers",
+        "Implementing SCRUM/KANBAN and Lean startup",
+        "Technical architecture for all websites (200 websites)",
+        "TDD / BDD and CI/CD",
+        "Technical referent",
+        "Create a DevOps team (2 devops)",
+        "Billing and payment system"
+      ],
+      "tags": [
+        "Scrum / Agile",
+        "php",
+        "docker",
+        "jenkins",
+        "Symfony 2",
+        "MySQL",
+        "Micro services"
+      ]
+    },
+    {
+      "company": "3W Academy",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/3wa-square_400x400.png",
+      "position": "Teacher for Web Developer",
+      "website": "http://www.3wa.fr",
+      "startDate": "09/2012",
+      "endDate": "03/2014",
+      "highlights": [
+        "Teaching HTML/CSS",
+        "Teaching Javascript/Jquery",
+        "Teaching PHP from procedural to OOP",
+        "Teaching Symfony2 Development",
+        "Teaching MySQL Administration",
+        "Courses for beginners to be a Web developer (25 peoples per session)"
+      ],
+      "tags": [
+        "teacher",
+        "php",
+        "css",
+        "html",
+        "symfony",
+        "OOP",
+        "Best practice"
+      ]
+    },
+    {
+      "company": "Natexo",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/natexo-square.jpeg",
+      "position": "CTO",
+      "website": "http://www.natexo.fr",
+      "startDate": "09/2012",
+      "endDate": "06/2013",
+      "highlights": [
+        "Web development with Symfony2 framework",
+        "Developing/mainting 100s websites",
+        "Build a team from 1 to 5",
+        "Scrum methodology",
+        "Email Marketing architecture",
+        "Build Tracking system for abandoned carts",
+        "Managing 25millons email databases in 10 countries {MySQL/PostgreSQL)"
+      ],
+      "tags": [
+        "aws",
+        "php",
+        "scrum",
+        "symfony",
+        "big data"
+      ]
+    },
+    {
+      "company": "Eclaps",
+      "position": "CTO/COO - Co-founder",
+      "website": "http://www.eclaps.com",
+      "startDate": "06/2007",
+      "endDate": "08/2012",
+      "highlights": [
+        "Creating a tech team from 0 to 20 devs, project managers and designers",
+        "Web development with Zend Framework",
+        "MySQL Database administration",
+        "Lean startup",
+        "Build SOA architectures",
+        "Technical Sales manager",
+        "HR Manager",
+        "Creating, Managing offshore teams (PHP, iOS, Android)"
+      ],
+      "tags": [
+        "php",
+        "mysql",
+        "management",
+        "iOS",
+        "Android",
+        "BlackBerry",
+        "Windows Phone",
+        "Hybrid App",
+        "REST/API"
+      ]
+    },
+    {
+      "company": "Priceminister.com",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/logo-carre-priceminister.jpg",
+      "position": "ITIL Service Desk Manager - System Administrator",
+      "website": "http://www.priceminister.com",
+      "startDate": "12/2005",
+      "endDate": "06/2007",
+      "highlights": [
+        "System Adminsitration for RedHat Servers",
+        "Web Servers managment (Apache, TomCat)",
+        "Firewall Managment (Fortinet certified)",
+        "Managing 200 Servers in Production",
+        "Managing 150 users on site",
+        "Managing Staging - Preprod infrastrcuture",
+        "SAN EMC administration"
+      ],
+      "tags": []
+    },
+    {
+      "company": "Axido Service",
+      "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/axido.jpeg",
+      "position": "System Administrator",
+      "startDate": "03/2003",
+      "endDate": "12/2005",
+      "highlights": [
+        "Microsoft Windows Administration",
+        "IT Support / Help Desk for 15 clients",
+        "Backup managment for IT infrastructure",
+        "Active Directory migrations",
+        "Exhange Server Administration"
+      ],
+      "tags": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "CNAM",
+      "studyType": "Master Degree",
+      "startDate": "2003-09-01",
+      "endDate": "2004-07-01"
+    },
+    {
+      "institution": "IUT Troyes",
+      "studyType": "Licence Degree",
+      "startDate": "2002-09-01",
+      "endDate": "2003-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "C-level",
+      "keywords": [
+        "Leadership",
+        "Communication",
+        "Relationship",
+        "Problem solver",
+        "Business matter",
+        "Budget Management",
+        "Share olders relations"
+      ]
+    },
+    {
+      "name": "Wed Development",
+      "keywords": [
+        "Symfony2",
+        "AngularJS",
+        "PHP / OOP",
+        "HTML5",
+        "CSS3",
+        "Git",
+        "TDD / BDD / DDD",
+        "NodeJS",
+        "Loopback, SailsJs",
+        "Gulp / Webpack",
+        "SASS",
+        "ElasticSearch",
+        "MongoDB",
+        "Python"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Debian, RedHat, Ubuntu",
+        "System Administration",
+        "Docker",
+        "Ansible",
+        "Capistrano",
+        "Jenkins",
+        "AWS (EC2, ECS, Cloud Front, ...)",
+        "Mesos",
+        "PrestoDB"
+      ]
+    },
+    {
+      "name": "Other languages",
+      "keywords": [
+        "Ruby on rails",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Swift",
+        "React / React Native"
+      ]
+    },
+    {
+      "name": "Problem solver",
+      "keywords": []
+    },
+    {
+      "name": "Artificial Intelligence",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "keywords": []
+    },
+    {
+      "name": "Capistrano",
+      "keywords": []
+    },
+    {
+      "name": "Business matter",
+      "keywords": []
+    },
+    {
+      "name": "Swift",
+      "keywords": []
+    },
+    {
+      "name": "Jenkins",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "keywords": []
+    },
+    {
+      "name": "Budget Management",
+      "keywords": []
+    },
+    {
+      "name": "React / React Native",
+      "keywords": []
+    },
+    {
+      "name": "AWS (EC2, ECS, Cloud Front, ...)",
+      "keywords": []
+    },
+    {
+      "name": "TDD / BDD / DDD",
+      "keywords": []
+    },
+    {
+      "name": "Share olders relations",
+      "keywords": []
+    },
+    {
+      "name": "NodeJS",
+      "keywords": []
+    },
+    {
+      "name": "Mesos",
+      "keywords": []
+    },
+    {
+      "name": "Loopback, SailsJs",
+      "keywords": []
+    },
+    {
+      "name": "PrestoDB",
+      "keywords": []
+    },
+    {
+      "name": "Gulp / Webpack",
+      "keywords": []
+    },
+    {
+      "name": "SASS",
+      "keywords": []
+    },
+    {
+      "name": "ElasticSearch",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "keywords": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Football"
+    },
+    {
+      "name": "Tennis"
+    },
+    {
+      "name": "Mountainbike"
+    }
+  ]
+}

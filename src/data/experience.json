@@ -2,6 +2,7 @@
   {
     "company": "Clear Books",
     "url": "https://www.clearbooks.co.uk",
+    "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/clearbooks-square.jpg",
     "startDate": "07/2016",
     "endDate": null,
     "position": "CTO",
@@ -11,6 +12,7 @@
   {
     "company": "Padawan Group",
     "url": "https://www.padawangroup.com",
+    "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/padawan-group-squarelogo.png",
     "startDate": "04/2015",
     "endDate": "07/2016",
     "position": "CTO",
