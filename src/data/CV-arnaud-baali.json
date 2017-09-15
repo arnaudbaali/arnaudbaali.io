@@ -4,20 +4,21 @@
     "label": "Chief Technical Officer (CTO)",
     "summary": "CTO since 10 years, i aim to build from scratch technical teams, leading tech teams to achieve personnal and team goals with new technologies and best practices as a reference.",
     "email": "arnaud.baali@me.com",
-    "profiles": [
-      {
-        "network": "Linked In",
-        "url": "https://uk.linkedin.com/in/arnaudbaali"
+    "phone": "07 476 259 702",
+    "languages": [
+      {"language": "French", "level": "Native"},
+      {"language": "English", "level": "Fluent"},
+      {"language": "Spanish", "level": "School"}
+    ],
+    "profiles": {
+      "linkedin": {
+        "url": "https://uk.linkedin.com/in/arnaudbaali",
+        "display": "uk.linkedin.com/in/arnaudbaali"
       },
-      {
-        "network": "Github",
-        "url": "https://github.com/arnaudbaali"
-      },
-      {
-        "network": "Twitter",
-        "url": "https://twitter.com/arnaudbaali"
-      }
-    ]
+      "github": "https://github.com/arnaudbaali",
+      "twitter": "https://twitter.com/arnaudbaali",
+      "twitterUsername": "@arnaudbaali"
+    }
   },
   "work": [
     {
@@ -230,16 +231,16 @@
   ],
   "education": [
     {
-      "institution": "CNAM",
+      "institution": "CNAM Paris",
       "studyType": "Master Degree",
-      "startDate": "2003-09-01",
-      "endDate": "2004-07-01"
+      "startDate": "2003",
+      "endDate": "2005"
     },
     {
       "institution": "IUT Troyes",
-      "studyType": "Licence Degree",
-      "startDate": "2002-09-01",
-      "endDate": "2003-06-01"
+      "studyType": "Bachelor Degree",
+      "startDate": "2002",
+      "endDate": "2003"
     }
   ],
   "skills": [
@@ -253,7 +254,8 @@
         "Business matter",
         "Budget Management",
         "Share olders relations"
-      ]
+      ],
+      "level": 80
     },
     {
       "name": "Wed Development",
@@ -272,7 +274,8 @@
         "ElasticSearch",
         "MongoDB",
         "Python"
-      ]
+      ],
+      "level": 80
     },
     {
       "name": "DevOps",
@@ -286,7 +289,8 @@
         "AWS (EC2, ECS, Cloud Front, ...)",
         "Mesos",
         "PrestoDB"
-      ]
+      ],
+      "level": 80
     },
     {
       "name": "Other languages",
@@ -296,8 +300,20 @@
         "Artificial Intelligence",
         "Swift",
         "React / React Native"
-      ]
-    },
+      ],
+      "level": 70
+    }
+  ],
+  "interests": [
+    "Football",
+    "Tennis",
+    "Mountainbike",
+    "Cryptocurrencies",
+    "Travel",
+    "Wines",
+    "Cigar"
+  ],
+  "other_skills": [
     {
       "name": "Problem solver",
       "keywords": []
@@ -385,17 +401,6 @@
     {
       "name": "Python",
       "keywords": []
-    }
-  ],
-  "interests": [
-    {
-      "name": "Football"
-    },
-    {
-      "name": "Tennis"
-    },
-    {
-      "name": "Mountainbike"
     }
   ]
 }
