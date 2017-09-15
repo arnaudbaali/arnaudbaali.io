@@ -8,7 +8,7 @@ export default class Skills extends Component {
   renderSubSkills(subSkills) {
       return subSkills.map(
           (keyword) =>
-            <Label bsStyle="default" className="labelTag">{keyword}</Label>
+            <li><Label bsStyle="info" className="labelTag">{keyword}</Label></li>
       )
   }
 
@@ -19,11 +19,13 @@ export default class Skills extends Component {
         <div className="item">
           <h3 className="level-title">{skill.name}</h3>
           <div className="level-bar">
-              <ProgressBar now={60} />
+              <ProgressBar now={skill.level} />
           </div>
         </div>
-        <div className="item">
+        <div className="tagcloud01">
+          <ul>
           {this.renderSubSkills(skill.keywords)}
+          </ul>
         </div>
       </div>
     )
