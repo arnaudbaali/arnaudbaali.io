@@ -5,20 +5,20 @@
     "summary": "CTO since 10 years, i aim to build from scratch technical teams, leading tech teams to achieve personnal and team goals with new technologies and best practices as a reference.",
     "email": "arnaud.baali@me.com",
     "phone": "07 476 259 702",
-    "profiles": [
-      {
-        "network": "Linked In",
-        "url": "https://uk.linkedin.com/in/arnaudbaali"
+    "languages": [
+      {"language": "French", "level": "Native"},
+      {"language": "English", "level": "Fluent"},
+      {"language": "Spanish", "level": "School"}
+    ],
+    "profiles": {
+      "linkedin": {
+        "url": "https://uk.linkedin.com/in/arnaudbaali",
+        "display": "uk.linkedin.com/in/arnaudbaali"
       },
-      {
-        "network": "Github",
-        "url": "https://github.com/arnaudbaali"
-      },
-      {
-        "network": "Twitter",
-        "url": "https://twitter.com/arnaudbaali"
-      }
-    ]
+      "github": "https://github.com/arnaudbaali",
+      "twitter": "https://twitter.com/arnaudbaali",
+      "twitterUsername": "@arnaudbaali"
+    }
   },
   "work": [
     {

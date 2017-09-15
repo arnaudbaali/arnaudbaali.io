@@ -7,21 +7,20 @@ export default class Education extends Component {
   renderEductionItem(educations) {
     return educations.map(
       (education) =>
-        <Col md={12}>
-          <h4>{education.studyType} - {education.institution} ({education.startDate} - {education.endDate})</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-        </Col>
+          <div className="item">
+              <h4 className="degree">{education.studyType}</h4>
+              <h5 className="meta">{education.institution}</h5>
+              <div className="time">{education.startDate} - {education.endDate}</div>
+          </div>
     )
   }
 
   render() {
     return (
-      <Grid>
-        <Row>
-          <h3>Education</h3>
-          {this.renderEductionItem(cv.education)}
-        </Row>
-      </Grid>
+        <div className="education-container container-block">
+            <h2 className="container-block-title">Education</h2>
+            {this.renderEductionItem(cv.education)}
+        </div>
     )
   }
 }

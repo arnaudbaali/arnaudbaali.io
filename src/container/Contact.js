@@ -1,34 +1,13 @@
-import React, { Component } from 'react';
-import { Button, Col, Grid, Row, Well } from 'react-bootstrap';
+import React from 'react';
 import FontAwesome from 'react-fontawesome';
-import './Contact.css';
-import cv from '../data/CV-arnaud-baali.json';
 
-export default class Contact extends Component {
-
-  render() {
-    return (
-      <Grid>
-        <hr/>
-        <Row className="lastRow">
-          <h3>Contact</h3>
-          <Col md={4}>
-            <Button bsStyle="primary" block>
-              <FontAwesome name="linkedin"/> Linkedin
-            </Button>
-          </Col>
-          <Col md={4}>
-            <Button bsStyle="default" block>
-              <FontAwesome name="github"/> Github
-            </Button>
-          </Col>
-          <Col md={4}>
-            <Button bsStyle="info" block>
-              <FontAwesome name="twitter"/> Twitter
-            </Button>
-          </Col>
-        </Row>
-      </Grid>
-    )
-  }
-}
+export default ({cv}) =>
+    <div className="contact-container container-block">
+      <ul className="list-unstyled contact-list">
+        <li className="email"><FontAwesome name="envelope" /><a href="#">{cv.basics.email}</a></li>
+        <li className="phone"><FontAwesome name="phone" /><a href="tel:0123 456 789">{cv.basics.phone}</a></li>
+        <li className="linkedin"><FontAwesome name="linkedin" /><a href={cv.basics.profiles.linkedin.url} target="_blank">{cv.basics.profiles.linkedin.display}</a></li>
+        <li className="github"><FontAwesome name="github" /><a href={cv.basics.profiles.github} target="_blank">{cv.basics.profiles.github}</a></li>
+        <li className="twitter"><FontAwesome name="twitter" /><a href={cv.basics.profiles.twitter} target="_blank">{cv.basics.profiles.twitterUsername}</a></li>
+      </ul>
+    </div>;
