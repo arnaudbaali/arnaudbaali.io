@@ -32,7 +32,7 @@ export default class Experience extends Component {
               <h3 className="job-title">{exp.position}</h3>
               <div className="time">{exp.startDate}  {exp.endDate === undefined ? '- Present' : '-' + exp.endDate }</div>
             </div>
-            <div className="company">{exp.company}, San Francisco</div>
+            <div className="company">{exp.company}, {exp.city}</div>
           </div>
           <div className="details">
             <p>{this.renderExperienceHighlightItem(exp.highlights)}</p>

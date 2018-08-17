@@ -22,10 +22,29 @@
   },
   "work": [
     {
+      "company": "Blow LTD",
+      "city": "London - UK",
+      "logo": "https://www.vouchercodes.co.uk/static/v10/images/merchant/logo/128px/9285_150429162316.png",
+      "position": "CTO",
+      "startDate": "09/2017",
+      "highlights": [
+        "Board Member",
+        "Technical referent",
+        "Expand the existing system based on stack 100% serveless and javascript",
+        "Manage technical team of 10 persons (Lead developers, Developers, Product owners, Designers)",
+        "Agile coach for the company",
+        "Hosting: AWS (Lambda, DynamoDB, IoT, SQS, SNS, RDS, API Gateway)",
+        "Stack: NodeJS, MySQL, Redis, React, React Native, Micro services"
+      ],
+      "tags": ["aws","nodejs","docker","jenkins","Express","React","React Native","Micro services","Lambda","Serverless Framework"]
+    },
+    {
       "company": "Clear Books Plc",
+      "city": "London - UK",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/clearbooks-square.jpg",
       "position": "Technical Director",
       "startDate": "07/2016",
+      "endDate": "09/2017",
       "highlights": [
         "Board Member",
         "Technical referent",
@@ -40,6 +59,7 @@
     },
     {
       "company": "Padawangroup Ltd",
+      "city": "London - UK",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/padawan-group-squarelogo.png",
       "position": "CTO",
       "website": "http://www.padawangroup.com",
@@ -72,6 +92,7 @@
     },
     {
       "company": "Mywinewaiter",
+      "city": "London - UK",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/mww.jpg",
       "position": "CEO - founder",
       "website": "http://www.mywinewaiter.com",
@@ -93,6 +114,7 @@
     },
     {
       "company": "Iron Web Ltd",
+      "city": "London - UK",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/ironweb-squarelogo.png",
       "position": "CTO",
       "website": "http://www.iron-web.co.uk",
@@ -120,6 +142,7 @@
     },
     {
       "company": "3W Academy",
+      "city": "Paris - France",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/3wa-square_400x400.png",
       "position": "Teacher for Web Developer",
       "website": "http://www.3wa.fr",
@@ -145,6 +168,7 @@
     },
     {
       "company": "Natexo",
+      "city": "Paris - France",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/natexo-square.jpeg",
       "position": "CTO",
       "website": "http://www.natexo.fr",
@@ -169,6 +193,7 @@
     },
     {
       "company": "Eclaps",
+      "city": "Paris - France",
       "position": "CTO/COO - Co-founder",
       "website": "http://www.eclaps.com",
       "startDate": "06/2007",
@@ -197,6 +222,7 @@
     },
     {
       "company": "Priceminister.com",
+      "city": "Paris - France",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/logo-carre-priceminister.jpg",
       "position": "ITIL Service Desk Manager - System Administrator",
       "website": "http://www.priceminister.com",
@@ -215,6 +241,7 @@
     },
     {
       "company": "Axido Service",
+      "city": "Paris - France",
       "logo": "https://s3.eu-west-2.amazonaws.com/ab-github-website/axido.jpeg",
       "position": "System Administrator",
       "startDate": "03/2003",
@@ -262,6 +289,7 @@
       "keywords": [
         "Symfony2",
         "AngularJS",
+        "React",
         "PHP / OOP",
         "HTML5",
         "CSS3",
@@ -269,7 +297,7 @@
         "TDD / BDD / DDD",
         "NodeJS",
         "Loopback, SailsJs",
-        "Gulp / Webpack",
+        "Gulp / Webpack / Babel",
         "SASS",
         "ElasticSearch",
         "MongoDB",
@@ -287,8 +315,10 @@
         "Capistrano",
         "Jenkins",
         "AWS (EC2, ECS, Cloud Front, ...)",
-        "Mesos",
-        "PrestoDB"
+        "PrestoDB",
+        "Serverless",
+        "Kubernetes",
+        "Mesos/Mesosphere"
       ],
       "level": 80
     },
@@ -298,8 +328,7 @@
         "Ruby on rails",
         "Machine Learning",
         "Artificial Intelligence",
-        "Swift",
-        "React / React Native"
+        "Swift"
       ],
       "level": 70
     }
