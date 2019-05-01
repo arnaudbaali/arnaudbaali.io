@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Col, Grid, Row } from 'react-bootstrap';
 import cv from '../data/CV-arnaud-baali.json';
 
 export default class Languages extends Component {

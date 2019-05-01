@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { Col, Grid, Label, Panel, Row, Well } from 'react-bootstrap';
+import { Label } from 'react-bootstrap';
 import cv from '../data/CV-arnaud-baali.json';
 import FontAwesome from 'react-fontawesome';
-import ExperienceHighlight from "./ExperienceHighlight";
+import ExperienceHighlight from './ExperienceHighlight';
 
 export default class Experience extends Component {
 
@@ -30,7 +30,7 @@ export default class Experience extends Component {
           <div className="meta">
             <div className="upper-row">
               <h3 className="job-title">{exp.position}</h3>
-              <div className="time">{exp.startDate}  {exp.endDate === undefined ? '- Present' : '- ' + exp.endDate }</div>
+              <div className="time">{exp.startDate}  {!exp.endDate ? '- Present' : '- ' + exp.endDate }</div>
             </div>
             <div className="company">{exp.company}, {exp.city}</div>
           </div>

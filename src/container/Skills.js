@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import FontAwesome from 'react-fontawesome';
 import cv from '../data/CV-arnaud-baali.json';
-import {Label, ProgressBar} from "react-bootstrap";
+import {Label, ProgressBar} from 'react-bootstrap';
 
 export default class Skills extends Component {
 
